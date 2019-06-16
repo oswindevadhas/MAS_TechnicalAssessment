@@ -1,0 +1,2 @@
+Slope|Intercept|Start|End
+-0.0034|0.6955|0.6921|-0.0851
